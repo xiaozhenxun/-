@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+用jupyter notebook打开的千人计划处理.ipynb的环境里必须包含以下库
+pandas库用于处理行列标签
+pip install xlrd 与 pip install xlwt用于读取EXCEL表格
+用openpyxl作用来将处理过的数据导出成对应的表格
